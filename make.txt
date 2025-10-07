@@ -4,5 +4,5 @@ Hello, World!
    4 I'm learning how to use Git and GitHub.
 
 
-
 added locally
+a. first commit by manually
