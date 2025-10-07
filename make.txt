@@ -1,0 +1,7 @@
+Hello, World!
+   2 
+   3 This is a sample file for my new Git repository.
+   4 I'm learning how to use Git and GitHub.
+
+
+
