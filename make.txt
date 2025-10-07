@@ -4,4 +4,4 @@ Hello, World!
    4 I'm learning how to use Git and GitHub.
 
 
-
+a. first commit by manually
